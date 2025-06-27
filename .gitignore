@@ -34,5 +34,5 @@ Thumbs.db
 .next/
 out/
 coverage/
-.cache
+.cache/
 .eslintcache
